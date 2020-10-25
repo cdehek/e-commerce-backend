@@ -2,7 +2,7 @@
 
 This is the backend to an e-commerce application that allows the user to track their products, categories, and product tags.
 
-![img](https://github.com/cdehek/e-commerce-backend/blob/develop/assets/demopic.PNG)
+![img](https://github.com/cdehek/e-commerce-backend/blob/develop/assets/images/demopic.PNG)
 
 <a href="https://drive.google.com/file/d/1cEAZtOakzd042s55c9mdJjhITymNW8OU/view">
 
